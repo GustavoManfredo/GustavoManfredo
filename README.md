@@ -1,4 +1,4 @@
-<img align="center" height="350em" src="https://raw.githubusercontent.com/gist/GustavoManfredo/c88a0962b103e3f5cf797d5cc1f2015a/raw/a50492f5498412f3aa2210dd99a680fe6326cdb2/githubcard.svg">
+<img align="center" height="500em" src="https://raw.githubusercontent.com/gist/GustavoManfredo/c88a0962b103e3f5cf797d5cc1f2015a/raw/a50492f5498412f3aa2210dd99a680fe6326cdb2/githubcard.svg">
 
 ## 👨‍💻 About me
 
@@ -25,8 +25,8 @@
 
 ## ⚙️ GitHub Analytics
 <p align="left">
-<img width="300em" src="https://github-readme-stats.vercel.app/api?username=GustavoManfredo&show_icons=true&theme=github_dark" alt = "GustavoManfredo's stats">
-<img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoManfredo&layout=compact&theme=github_dark" alt = "GustavoManfredo's most used languages">
+<img width="500em" src="https://github-readme-stats.vercel.app/api?username=GustavoManfredo&show_icons=true&theme=github_dark" alt = "GustavoManfredo's stats">
+<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoManfredo&layout=compact&theme=github_dark" alt = "GustavoManfredo's most used languages">
 </p>
 
 ## 📱 Social Links
@@ -34,7 +34,6 @@
 <a href="https://www.linkedin.com/in/gustavo-manfredo/" target="_blank">
     <img alt="Gustavo's LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-
 <!--
 **GustavoManfredo/GustavoManfredo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
