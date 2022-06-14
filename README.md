@@ -32,7 +32,7 @@
 ## 📱 Social Links
 
 <a href="https://www.linkedin.com/in/gustavo-manfredo/" target="_blank">
-    <img alt="Gustavo's LinkedIn" src="https://raw.githubusercontent.com/gist/GustavoManfredo/30273ed4f92f73ece9fc336d5021c4cd/raw/1ac8804f51ddd45a1649a7ffb7eadb3c6ac98482/linkein.svg">
+    <img alt="Gustavo's LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <!--
 **GustavoManfredo/GustavoManfredo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
