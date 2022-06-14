@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About me
 
-- 🔥 Trainee Developer
+- 📚  Student of Information Systems at Anhembi Morumbi University (UAM)<!-- - 🔥 Trainee Developer -->
 
 - 🔭 I'm currently looking for a job.
 
