@@ -1,6 +1,7 @@
 <p align="center">
 <img height="500em" src="https://raw.githubusercontent.com/gist/GustavoManfredo/c88a0962b103e3f5cf797d5cc1f2015a/raw/a50492f5498412f3aa2210dd99a680fe6326cdb2/githubcard.svg">
 </p>
+
 ## 👨‍💻 About me
 
 - 📚  Student of Information Systems at Anhembi Morumbi University (**UAM**)<!-- - 🔥 Trainee Developer -->
