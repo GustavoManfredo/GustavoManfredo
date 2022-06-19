@@ -17,6 +17,7 @@
 ![Java](https://img.shields.io/badge/-Java-303030?style=flat&logo=java)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-303030?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-303030?style=flat&logo=node.js)&nbsp;
+![Python](https://img.shields.io/badge/-Python-303030?style=flat&logo=python)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-303030?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-303030?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-303030?style=flat&logo=mysql)&nbsp;
@@ -26,14 +27,14 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-303030?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ## ⚙️ GitHub Analytics
-<p align="left">
+<p>
 <img width="500em" src="https://github-readme-stats.vercel.app/api?username=GustavoManfredo&show_icons=true&theme=github_dark" alt = "GustavoManfredo's stats">
 <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoManfredo&layout=compact&theme=github_dark" alt = "GustavoManfredo's most used languages">
 </p>
 
 ## 📱 Social Links
 
-<a href="https://www.linkedin.com/in/gustavo-manfredo/" target="_blank">
+<a align="center" href="https://www.linkedin.com/in/gustavo-manfredo/" target="_blank">
     <img alt="Gustavo's LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <!--
